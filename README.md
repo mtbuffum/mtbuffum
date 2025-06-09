@@ -7,7 +7,7 @@ I'm an Electrical and Computer Engineering student at The University of Colorado
 ## Skills & Experience
 
 - Programming Languages: Python, C++, Bash (some exposure)
-- Interests: Data analysis, machine learning, automation
+- Interests: Data analysis, machine learning, automation, AI
 
 ## Contact Information
 
