@@ -2,7 +2,11 @@
 
 ## About Me
 
-I'm an Electrical and Computer Engineering student at The University of Colorado Boulder, minoring in Computer Science. I'm passionate about data analysis and machine learning models, and I'm eager to grow my skills in software development.
+Hi, I’m Mason an Electrical & Computer Engineering student at CU Boulder with a focus on AI, embedded systems, and real-world engineering.
+
+I build end-to-end systems that combine machine learning, computer vision, and hardware including SLAM pipelines, AI models, and ESP32-based devices. I’m particularly interested in perception systems, robotics, and scalable AI applications.
+
+My goal is to develop intelligent systems that operate reliably in real environments and to grow into an engineer capable of building and leading impactful technology.
 
 ## Skills & Experience
 
